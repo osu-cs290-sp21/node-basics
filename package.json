@@ -1,0 +1,31 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "Fundamentals of Node.js",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "figlet": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs290-sp21/node-basics.git"
+  },
+  "keywords": [
+    "Node.js",
+    "HTTP",
+    "Async",
+    "operations"
+  ],
+  "author": "Hess <hessro@oregonstate.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osu-cs290-sp21/node-basics/issues"
+  },
+  "homepage": "https://github.com/osu-cs290-sp21/node-basics#readme"
+}
